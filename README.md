@@ -1,4 +1,3 @@
-# hugging-face-summarization-demo
 ---
 title: hugging-face-summarization-demo
 emoji: 🌖
